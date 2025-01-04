@@ -7,6 +7,7 @@
 ![image](https://github.com/user-attachments/assets/c243fbd1-6489-45dd-8ab5-7c3118ddd8f5)
 
 3. 下载pageRecorder-cn.au3 到电脑，双击运行
+
 ![image](https://github.com/user-attachments/assets/c3f34b50-12e7-418a-bec9-dad1f1c2be34)
 
 
