@@ -8,7 +8,8 @@
 
 3. 下载pageRecorder-cn.au3 到电脑，双击运行
 
-![image](https://github.com/user-attachments/assets/c3f34b50-12e7-418a-bec9-dad1f1c2be34)
+![image](https://github.com/user-attachments/assets/23e6fdbd-17ea-4668-946a-3bf0091d5b9b)
+
 
 
  
